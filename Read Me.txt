@@ -1,0 +1,2 @@
+This is a simple sliding puzzle game. I have added my own photo to make it more interesting.
+Use arrow keys to move the block and press Space to shuffle the slides.
